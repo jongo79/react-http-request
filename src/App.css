@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.request-button {
+  background-color: blueviolet;
+}
+
+.data-container {
+  max-width: 800px; /* Adjust the maximum width as needed */
+  margin: 0 auto; /* Center the container horizontally */
+  column-count: 2; /* Arrange the content in two columns */
+  column-gap: 20px; /* Add some space between the columns */
+}
+
+
+

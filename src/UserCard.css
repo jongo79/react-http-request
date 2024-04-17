@@ -1,0 +1,11 @@
+.user-card {
+    margin-bottom: 20px; /* Add some space between each user info */
+    padding: 10px; /* Add padding inside each user-info div for spacing */
+    border: 1px solid #ccc; /* Add a border around each user-info div */
+    border-radius: 5px; /* Optional: Add border radius for rounded corners */
+  }
+
+ .user-info {
+   
+  }
+  
